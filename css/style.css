@@ -1,0 +1,17 @@
+/********Comments*********/
+h1 {
+	text-transform: uppercase;
+	color:grey;
+}
+
+h2{
+	font-size:15px;
+}
+
+h3 {
+	margin-left:15px;
+}
+
+video{
+	border-radius: 1000px;
+}
